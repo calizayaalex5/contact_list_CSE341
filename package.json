@@ -1,0 +1,20 @@
+{
+  "name": "contact_list_cse341",
+  "version": "1.0.0",
+  "description": "Proyecto para CSE341",
+  "homepage": "https://github.com/calizayaalex5/contact_list_CSE341#readme",
+  "bugs": {
+    "url": "https://github.com/calizayaalex5/contact_list_CSE341/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calizayaalex5/contact_list_CSE341.git"
+  },
+  "license": "ISC",
+  "author": "Alex Calizaya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
