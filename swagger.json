@@ -5,7 +5,7 @@
     "description": "Una Api personalizada sobre una lista de contactos",
     "version": "1.0.0"
   },
-  "host": "https://contact-list-cse341.onrender.com",
+  "host": "contact-list-cse341.onrender.com",
   "basePath": "/",
   "schemes": [
     "http",
